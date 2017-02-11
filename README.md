@@ -80,10 +80,105 @@ need to follow the build process after making any change in source code. Time
 saved from 40 minutes to 5 seconds
 * Mongo Script execution 
 * Builder pattern to set response
+* elastic search implementation for mongo search using losgtash and 
+* PDF comparison using PDF box usin image and text extraction and MD5 implementation
+
 
 By default, `Font Favorites` comes with a list of searchable header styles that can be used in the following ways:
 
 **─── By Style ───**
+
+
+
+###Skills & Expertise
+
+These are languages, tools, and practices to which I have had exposure over the past 6 years or so. Those things which enjoy routine usage in my daily work are denoted with a ^†^ symbol.
+
+###Programming Languages
+
+* J2EE6/7^†^
+* MongoDB^†^
+* MySQL
+
+### Markup/Templating Languages & Preprocessors
+
+* CoffeeScript
+* CSS^†^
+* Dust.js
+* ERB/eRuby
+* Haml
+* Handlebars.js
+* HTML^†^
+* Jade
+* JSP
+* JSTL
+* LESS^†^
+* Liquid
+* Markdown^†^
+* Mustache
+* Sass^†^
+* Smarty
+* Swig
+* Stylus
+
+### Frameworks & APIs
+
+* Backbone.js^†^
+* Bower
+* Browserify^†^
+* Compass^†^
+* Django
+* Express^†^
+* Jasmine
+* jQuery
+* krakenjs
+* Lodash^†^
+* Meteor
+* Middleman
+* Node.js^†^
+* Prototype.js
+* React
+* Require.js^†^
+* Ruby on Rails
+* Sinatra
+* Twitter API
+* Underscore.js^†^
+* Wordpress
+* YUI
+
+### Software & Tools
+
+* JBoss
+* JIRA^†^
+* MongoDB^†^
+* MySQL
+* Nginx
+* Oracle
+* MySQL
+* PostgreSQL
+* rvm^†^
+* Sublime Text
+* Subversion
+* tmux^†^
+* Tomcat
+* Ubuntu Linux
+
+Education
+
+Saint Joseph's University, Erivan K. Haub School of Business
+BS, Information Systems, 1996 - 2000
+
+Honors and Awards
+
+Unsung Hero, Empathy Lab, May 2011
+A peer-awarded honor which I'll always be terribly proud to have won.
+
+Interests
+
+Being a dad and spending time with my family
+Playing board and card games (and video games, too)
+Making and listening to music
+Watching and contributing to Open Source Software
 
 
 ### Generate Font Test
