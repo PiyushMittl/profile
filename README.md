@@ -16,9 +16,6 @@ Or simply:
  / __/ _/ // /_/ / /  __/ /_   / /_/ / /_/ /  __(__  )  / /_/ / / / (__  ) _ _
 /_/   /___/\____/_/\___/\__/   \__,_/\____/\___/____/   \__/_/ /_/_/____(_|_|_)
 ```
-
-# Features
-
 ### Summary
 I am an experienced java developer who has led development for multiple successful projects. I am passionate about building high quality apps with modern web technologies. Through being conversant in server-side engineering, solution finding with various design pattern, and project management practices, I am able to execute end-to-end on a product or project.
 
