@@ -123,11 +123,4 @@ You can define your [**sublime-settings**](https://github.com/viisual/ASCII-Deco
 Custom key bindings can be set @:  
 `Menu > Preferences > Package Settings > ASCII Decorator > Key Bindings - User`
 
-# Credits
-
-Primary development & documentation by: [**Christopher Jones**](mailto:cjones@insub.org)
-
-Packaging of `pyfiglet` by: [**Peter Waller**](mailto:peter.waller@gmail.com)  
-Various enhancements by: [**Stefano Rivera**](mailto:stefano@rivera.za.net) & [**Enteleform**](https://packagecontrol.io/browse/authors/Enteleform)  
-Ported to `Sublime Text 3` by: [**Sascha Wolf**](mailto:swolf.dev@gmail.com)  
 
