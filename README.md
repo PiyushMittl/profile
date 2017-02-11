@@ -85,15 +85,5 @@ Install via [**Package Control**](https://packagecontrol.io/installation) (*Pref
 
 
 
-# Usage
-
-### Command Palette
-
-Bring up the command palette:
-* <kbd>Cmd + Shift + P</kbd> (*OSX & Linux*)
-
- * <kbd>Super + Shift + K</kbd> (*OSX & Linux*)
-
-
 
 
