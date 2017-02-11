@@ -2,8 +2,8 @@
 
 * Phone: 9358909659 
 * Email: mr.piyushmittal@rediffmail.com
-* Youtube Channel:  [**Piyush Mittal**](https://www.youtube.com/channel/UCfkltrltP4rfIPeBF3t5bpQ#youtuber)
-* Github: [**Piyush Mittal**](https://github.com/PiyushMittl/profile) 
+* Youtube Channel:  [**Piyush Mittal YouTube**](https://www.youtube.com/channel/UCfkltrltP4rfIPeBF3t5bpQ#youtuber)
+* Github: [**Piyush Mittal Git**](https://github.com/PiyushMittl/profile) 
 
 
 
