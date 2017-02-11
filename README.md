@@ -6,12 +6,10 @@
 
 &nbsp;
 
-ASCII Decorator is a simple plugin implementation of [**pyfiglet**](https://github.com/pwaller/pyfiglet) for [**Sublime Text 3**](https://www.sublimetext.com/3).&nbsp; `pyfiglet` is a full port of [**FIGlet**](http://www.figlet.org/) into pure python.&nbsp; `FIGlet` is a program that generates text banners, in a variety of typefaces, composed of letters made up of conglomerations of smaller ASCII characters.
 
-Or simply:
-```
 ```
 ### Summary
+```
 I am an experienced java developer who has led development for multiple successful projects. I am passionate about building high quality apps with modern web technologies. Through being conversant in server-side engineering, solution finding with various design pattern, and project management practices, I am able to execute end-to-end on a product or project.
 
 ### Speciality
