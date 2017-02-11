@@ -30,6 +30,7 @@ POST MAN script writing
 
 
 
+
 ###Java Developer at  [**Cognizant Tecnology Solution**](https://www.cognizant.com/)
 
 November 2014 - October 2016
@@ -60,11 +61,10 @@ developing h/w or robots application
 ####own framework for API testing using RestTemplate
 
 
+### Personal Interests
+Mongo Script execution 
+Builder pattern to set response
 
-
-
-See a live preview of the first selected region and convert all selected regions to the chosen font upon execution.  
-`Font Selector` shows all fonts by name, while `Font Favorites` shows your customized list of frequently used fonts.
 
 By default, `Font Favorites` comes with a list of searchable header styles that can be used in the following ways:
 
