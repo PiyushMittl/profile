@@ -77,7 +77,7 @@ Creates a new document which shows your selected text ( *or "Lorem Ipsum"* ) in 
 
 # Installation
 
-Install via [**Package Control**](https://packagecontrol.io/installation) for [**Sublime Text 3**](https://www.sublimetext.com/3) (*Preferred*)
+Install via [**Package Control**](https://packagecontrol.io/installation) (*Preferred*)
 
 * Bring up the command palette:
  * <kbd>Cmd + Shift + P</kbd> (*OSX & Linux*)
@@ -94,11 +94,6 @@ Bring up the command palette:
 
  * <kbd>Super + Shift + K</kbd> (*OSX & Linux*)
 
-See [**sublime-commands**](https://github.com/viisual/ASCII-Decorator/blob/master/Default.sublime-commands) for a list of additional commands that can be mapped to key bindings.
-
-
-* Caret with no selection:
- * the entire line's text will be converted
 
 
 
