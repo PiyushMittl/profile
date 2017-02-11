@@ -57,13 +57,10 @@ By default, `Font Favorites` comes with a list of searchable header styles that 
 
 **─── By Style ───**
 
-![**FontFavorites_ByStyle**](https://raw.githubusercontent.com/Enteleform/ASCII-Decorator/master/GIFs/FontFavorites_ByStyle.gif)
 
 ### Generate Font Test
 
 Creates a new document which shows your selected text ( *or "Lorem Ipsum"* ) in all available fonts, so you can choose the one you like best!
-
-![**GenerateFontTest_SelectedText**](https://raw.githubusercontent.com/Enteleform/ASCII-Decorator/master/GIFs/GenerateFontTest_SelectedText.gif)
 
 # Installation
 
@@ -74,9 +71,6 @@ Install via [**Package Control**](https://packagecontrol.io/installation) for [*
 * Select option: `Package Control: Install Package`
 
 
-Install via `git`
-
-* In a shell: navigate to the Sublime Text `Packages` directory
 
 # Usage
 
@@ -84,10 +78,8 @@ Install via `git`
 
 Bring up the command palette:
 * <kbd>Cmd + Shift + P</kbd> (*OSX & Linux*)
-* <kbd>Ctrl + Shift + P</kbd> (*Windows*)
 
  * <kbd>Super + Shift + K</kbd> (*OSX & Linux*)
- * <kbd>Alt + Shift + K</kbd> (*Windows*)
 
 See [**sublime-commands**](https://github.com/viisual/ASCII-Decorator/blob/master/Default.sublime-commands) for a list of additional commands that can be mapped to key bindings.
 
