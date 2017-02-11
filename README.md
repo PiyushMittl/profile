@@ -29,8 +29,8 @@ Authoring great user experiences with j2ee, mongodb, and spring. Advocating for 
 
 ###Java Developer at  [**iTuple Tecnology**](http://www.ituple.com/)
 
-October 2016 - present
-PMD,FindBugs
+ October 2016 - present
+ PMD,FindBugs
 Swagger UI for REST API testing
 POST MAN script writing 
 
