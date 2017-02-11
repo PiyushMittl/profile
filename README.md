@@ -1,5 +1,12 @@
 # PIYUSH MITTAL
 
+* Phone: 9358909659 
+* Email: mr.piyushmittal@rediffmail.com
+* Youtube Channel:  [**Piyush Mittal**](https://www.youtube.com/channel/UCfkltrltP4rfIPeBF3t5bpQ#youtuber)
+* Github: [**Piyush Mittal**](https://github.com/PiyushMittl/profile) 
+
+
+
 ### Developer
 
 [Youtuber](https://www.youtube.com/channel/UCfkltrltP4rfIPeBF3t5bpQ#youtuber) &nbsp;|&nbsp; [Installation](https://github.com/viisual/ASCII-Decorator#installation) &nbsp;
