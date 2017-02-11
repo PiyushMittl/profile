@@ -36,10 +36,6 @@ See a live preview of the first selected region and convert all selected regions
 
 By default, `Font Favorites` comes with a list of searchable header styles that can be used in the following ways:
 
-**─── By Size ───**
-
-![**FontFavorites_BySize**](https://raw.githubusercontent.com/Enteleform/ASCII-Decorator/master/GIFs/FontFavorites_BySize.gif)
-
 **─── By Style ───**
 
 ![**FontFavorites_ByStyle**](https://raw.githubusercontent.com/Enteleform/ASCII-Decorator/master/GIFs/FontFavorites_ByStyle.gif)
@@ -73,11 +69,6 @@ Bring up the command palette:
 * <kbd>Cmd + Shift + P</kbd> (*OSX & Linux*)
 * <kbd>Ctrl + Shift + P</kbd> (*Windows*)
 
-
-### Key Bindings
-
-One key binding is included for `Default Font`:
-
  * <kbd>Super + Shift + K</kbd> (*OSX & Linux*)
  * <kbd>Alt + Shift + K</kbd> (*Windows*)
 
@@ -86,11 +77,6 @@ See [**sublime-commands**](https://github.com/viisual/ASCII-Decorator/blob/maste
 
 * Caret with no selection:
  * the entire line's text will be converted
-* Selection on a single line:
- * only selected text will be converted.
- 
-* Selection that spans multiple lines:
- * each line that contains text will be converted
 
 
 
