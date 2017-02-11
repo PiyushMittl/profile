@@ -10,11 +10,6 @@ ASCII Decorator is a simple plugin implementation of [**pyfiglet**](https://gith
 
 Or simply:
 ```
-    __________________     __         __                   __  __    _
-   / ____/  _/ ____/ /__  / /_   ____/ /___  ___  _____   / /_/ /_  (_)____
-  / /_   / // / __/ / _ \/ __/  / __  / __ \/ _ \/ ___/  / __/ __ \/ / ___/
- / __/ _/ // /_/ / /  __/ /_   / /_/ / /_/ /  __(__  )  / /_/ / / / (__  ) _ _
-/_/   /___/\____/_/\___/\__/   \__,_/\____/\___/____/   \__/_/ /_/_/____(_|_|_)
 ```
 ### Summary
 I am an experienced java developer who has led development for multiple successful projects. I am passionate about building high quality apps with modern web technologies. Through being conversant in server-side engineering, solution finding with various design pattern, and project management practices, I am able to execute end-to-end on a product or project.
@@ -24,8 +19,11 @@ Authoring great user experiences with j2ee, mongodb, and spring. Advocating for 
 
 ### Experence
 
+###Java Developer at  [**Cognizant Tecnology Solution**](https://www.cognizant.com/)
 
+November 2014 - October 2016
 
+As a member of the Solution Innovations team, I am creating a RWD pattern library as the system of record and living style guide for the next version of the Magento reference store. I also support sales activities by building and deploying various tools and services, such as a third-party JavaScript app that enables users to annotate any website with content authored in a WordPress blog.
 
 
 See a live preview of the first selected region and convert all selected regions to the chosen font upon execution.  
