@@ -19,18 +19,10 @@ Authoring great user experiences with j2ee, mongodb, and spring. Advocating for 
 
 ###Java Developer at  [**iTuple Tecnology**](http://www.ituple.com/)
 
-* November 2014 - October 2016
-Engaged in front end (UI) as well as back end (J2EE) development activities in
-application.Contributed software engineering expertise in the development of products from
-requirements definition through successful deployment.CAST fixing (Facilitated customization of code by encouraging software
-engineering team to adopt emerging standards for software application
-development architecture as Code Analysis System Tool of Cognizant)
- Release processes and customization of applications to user needs.
- Following AGILE project development life cycle methodology.
- Unit testing and integration testing of owned use cases.
- Handling different types of issues coming at client demo.
- Responsible for the dealing with the problems, bug fixing and troubleshooting as
-per the client requirement.
+ October 2016 - present
+PMD,FindBugs
+Swagger UI for REST API testing
+POST MAN script writing 
 
 
 
@@ -38,15 +30,33 @@ per the client requirement.
 ###Java Developer at  [**Cognizant Tecnology Solution**](https://www.cognizant.com/)
 
 November 2014 - October 2016
-
+* Engaged in front end (UI) as well as back end (J2EE) development activities in application.
+* Contributed software engineering expertise in the development of products from requirements definition through successful deployment.
+* CAST fixing (Facilitated customization of code by encouraging software engineering team to adopt emerging standards for software    application development architecture as Code Analysis System Tool of Cognizant)
+* Release processes and customization of applications to user needs.
+* Unit testing and integration testing of owned use cases.
+* Responsible for the dealing with the problems, bug fixing and troubleshooting as per the client requirement.
 
 ### Personal Interests
 
 ####Robotics
 
 Arduino
-
 Raspbarry pi 
+
+####Framework Implementation
+
+Builder pattern for response set 
+
+
+####Andriod
+
+developing h/w or robots application
+
+####SoapUI
+####own framework for API testing using RestTemplate
+
+
 
 
 
