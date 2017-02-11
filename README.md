@@ -1,6 +1,6 @@
 # PIYUSH MITTAL
 
-# Features
+### Developer
 
 [Features](https://github.com/viisual/ASCII-Decorator#features) &nbsp;|&nbsp; [Installation](https://github.com/viisual/ASCII-Decorator#installation) &nbsp;|&nbsp; [Usage](https://github.com/viisual/ASCII-Decorator#usage) &nbsp;|&nbsp; [Configuration](https://github.com/viisual/ASCII-Decorator#configuration) &nbsp;|&nbsp; [Credits](https://github.com/viisual/ASCII-Decorator#credits)
 
@@ -19,7 +19,17 @@ Or simply:
 
 # Features
 
-### Font Selector & Font Favorites
+### Summary
+I am an experienced java developer who has led development for multiple successful projects. I am passionate about building high quality apps with modern web technologies. Through being conversant in server-side engineering, solution finding with various design pattern, and project management practices, I am able to execute end-to-end on a product or project.
+
+### Speciality
+Authoring great user experiences with j2ee, mongodb, and spring. Advocating for the development. Managing and mentoring dev teams. Performing code reviews and API documentation. Particating in the Arduino,Raspbarry pi and Android with IOT. Drawing from a strong background in many frameworks.
+
+### Experence
+
+
+
+
 
 See a live preview of the first selected region and convert all selected regions to the chosen font upon execution.  
 `Font Selector` shows all fonts by name, while `Font Favorites` shows your customized list of frequently used fonts.
