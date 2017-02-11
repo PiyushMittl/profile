@@ -2,7 +2,7 @@
 
 ### Developer
 
-[Features](https://github.com/viisual/ASCII-Decorator#features) &nbsp;|&nbsp; [Installation](https://github.com/viisual/ASCII-Decorator#installation) &nbsp;|&nbsp; [Usage](https://github.com/viisual/ASCII-Decorator#usage) &nbsp;|&nbsp; [Configuration](https://github.com/viisual/ASCII-Decorator#configuration) &nbsp;|&nbsp; [Credits](https://github.com/viisual/ASCII-Decorator#credits)
+[Youtuber](https://www.youtube.com/channel/UCfkltrltP4rfIPeBF3t5bpQ#youtuber) &nbsp;|&nbsp; [Installation](https://github.com/viisual/ASCII-Decorator#installation) &nbsp;
 
 &nbsp;
 
@@ -26,7 +26,6 @@ Authoring great user experiences with j2ee, mongodb, and spring. Advocating for 
 
 November 2014 - October 2016
 
-As a member of the Solution Innovations team, I am creating a RWD pattern library as the system of record and living style guide for the next version of the Magento reference store. I also support sales activities by building and deploying various tools and services, such as a third-party JavaScript app that enables users to annotate any website with content authored in a WordPress blog.
 
 
 
