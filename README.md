@@ -17,16 +17,17 @@ Authoring great user experiences with j2ee, mongodb, and spring. Advocating for 
 
 ### Experence
 
+###Java Developer at  [**iTuple Tecnology**](http://www.ituple.com/)
+
+* November 2014 - October 2016
+
+
 ###Java Developer at  [**Cognizant Tecnology Solution**](https://www.cognizant.com/)
 
 November 2014 - October 2016
 
 As a member of the Solution Innovations team, I am creating a RWD pattern library as the system of record and living style guide for the next version of the Magento reference store. I also support sales activities by building and deploying various tools and services, such as a third-party JavaScript app that enables users to annotate any website with content authored in a WordPress blog.
 
-
-###Java Developer at  [**iTuple Tecnology**](http://www.ituple.com/)
-
-November 2014 - October 2016
 
 
 
@@ -110,6 +111,7 @@ Regions are handled in the following ways:
  * the entire line's text will be converted
 * Selection on a single line:
  * only selected text will be converted.
+ 
 * Selection that spans multiple lines:
  * each line that contains text will be converted
 
@@ -129,12 +131,3 @@ Packaging of `pyfiglet` by: [**Peter Waller**](mailto:peter.waller@gmail.com)
 Various enhancements by: [**Stefano Rivera**](mailto:stefano@rivera.za.net) & [**Enteleform**](https://packagecontrol.io/browse/authors/Enteleform)  
 Ported to `Sublime Text 3` by: [**Sascha Wolf**](mailto:swolf.dev@gmail.com)  
 
-```
-                        _|_|  _|            _|              _|
-_|_|_|    _|    _|    _|            _|_|_|  _|    _|_|    _|_|_|_|
-_|    _|  _|    _|  _|_|_|_|  _|  _|    _|  _|  _|_|_|_|    _|
-_|    _|  _|    _|    _|      _|  _|    _|  _|  _|          _|
-_|_|_|      _|_|_|    _|      _|    _|_|_|  _|    _|_|_|      _|_|
-_|              _|                      _|
-_|          _|_|                    _|_|
-```
