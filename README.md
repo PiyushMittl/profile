@@ -64,21 +64,21 @@ Builder pattern for response set
 
 developing h/w or robots application
 
-####SoapUI
-####own framework for API testing using RestTemplate
 
 
 ### Personal Interests
-Mongo Script execution 
-Builder pattern to set response
-
-
+own framework for API testing using RestTemplate
+testing automation
+Robotics
+Mobile Development
+Electrical
 
 ###Achivements
 * Automate build process by developing a java program from which team does not
 need to follow the build process after making any change in source code. Time
 saved from 40 minutes to 5 seconds
-
+* Mongo Script execution 
+* Builder pattern to set response
 
 By default, `Font Favorites` comes with a list of searchable header styles that can be used in the following ways:
 
