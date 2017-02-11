@@ -73,24 +73,6 @@ Bring up the command palette:
 * <kbd>Cmd + Shift + P</kbd> (*OSX & Linux*)
 * <kbd>Ctrl + Shift + P</kbd> (*Windows*)
 
-Type:
-
-* `ASCII Decorator: Default Font`
-* `ASCII Decorator: Font Selector`
-* `ASCII Decorator: Font Favorites`
-* `ASCII Decorator: Generate Font Test (Selected Text)`
-* `ASCII Decorator: Generate Font Test (Lorem Ipsum)`
-
-### Context Menu
-
-Right-click on your document to access the context menu.
-
-The `ASCII Decorator` sub-menu contains:
-
-* `Default Font`
-* `Font Selector`
-* `Font Favorites`
-* `Generate Font Test (Selected Text)`
 
 ### Key Bindings
 
@@ -101,11 +83,6 @@ One key binding is included for `Default Font`:
 
 See [**sublime-commands**](https://github.com/viisual/ASCII-Decorator/blob/master/Default.sublime-commands) for a list of additional commands that can be mapped to key bindings.
 
-### Selections
-
-Each command will convert all selected regions to ASCII text.
-
-Regions are handled in the following ways:
 
 * Caret with no selection:
  * the entire line's text will be converted
@@ -115,12 +92,5 @@ Regions are handled in the following ways:
 * Selection that spans multiple lines:
  * each line that contains text will be converted
 
-# Configuration
-
-You can define your [**sublime-settings**](https://github.com/viisual/ASCII-Decorator/blob/master/ASCII%20Decorator.sublime-settings) preferences @:  
-`Menu > Preferences > Package Settings > ASCII Decorator > Settings - User`
-
-Custom key bindings can be set @:  
-`Menu > Preferences > Package Settings > ASCII Decorator > Key Bindings - User`
 
 
