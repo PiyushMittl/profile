@@ -22,7 +22,7 @@ Authoring great user experiences with j2ee, mongodb, and spring. Advocating for 
 
 ###Java Developer at  [**iTuple Tecnology**](http://www.ituple.com/)
 
- October 2016 - present
+October 2016 - present
 PMD,FindBugs
 Swagger UI for REST API testing
 POST MAN script writing 
@@ -64,6 +64,13 @@ developing h/w or robots application
 ### Personal Interests
 Mongo Script execution 
 Builder pattern to set response
+
+
+
+###Achivements
+* Automate build process by developing a java program from which team does not
+need to follow the build process after making any change in source code. Time
+saved from 40 minutes to 5 seconds
 
 
 By default, `Font Favorites` comes with a list of searchable header styles that can be used in the following ways:
