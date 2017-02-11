@@ -20,6 +20,19 @@ Authoring great user experiences with j2ee, mongodb, and spring. Advocating for 
 ###Java Developer at  [**iTuple Tecnology**](http://www.ituple.com/)
 
 * November 2014 - October 2016
+Engaged in front end (UI) as well as back end (J2EE) development activities in
+application.Contributed software engineering expertise in the development of products from
+requirements definition through successful deployment.CAST fixing (Facilitated customization of code by encouraging software
+engineering team to adopt emerging standards for software application
+development architecture as Code Analysis System Tool of Cognizant)
+ Release processes and customization of applications to user needs.
+ Following AGILE project development life cycle methodology.
+ Unit testing and integration testing of owned use cases.
+ Handling different types of issues coming at client demo.
+ Responsible for the dealing with the problems, bug fixing and troubleshooting as
+per the client requirement.
+
+
 
 
 ###Java Developer at  [**Cognizant Tecnology Solution**](https://www.cognizant.com/)
@@ -27,6 +40,13 @@ Authoring great user experiences with j2ee, mongodb, and spring. Advocating for 
 November 2014 - October 2016
 
 
+### Personal Interests
+
+####Robotics
+
+Arduino
+
+Raspbarry pi 
 
 
 
@@ -51,14 +71,12 @@ Install via [**Package Control**](https://packagecontrol.io/installation) for [*
 
 * Bring up the command palette:
  * <kbd>Cmd + Shift + P</kbd> (*OSX & Linux*)
- * <kbd>Ctrl + Shift + P</kbd> (*Windows*)
 * Select option: `Package Control: Install Package`
-* Select `ASCII Decorator` from the list
+
 
 Install via `git`
 
 * In a shell: navigate to the Sublime Text `Packages` directory
-* Type: `git clone https://github.com/viisual/ASCII Decorator.git`
 
 # Usage
 
