@@ -121,6 +121,9 @@ These are languages, tools, and practices to which I have had exposure over the 
 * jQuery
 * Lastic Search
 * Mongo Lastic
+* Logstash
+* APACHE POI
+* PDF Box
 
 ### Software & Tools
 
