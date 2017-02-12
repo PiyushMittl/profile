@@ -163,23 +163,18 @@ These are languages, tools, and practices to which I have had exposure over the 
 * Tomcat
 * Ubuntu Linux
 
-Education
+### Education
 
-Saint Joseph's University, Erivan K. Haub School of Business
-BS, Information Systems, 1996 - 2000
+Birla Institute Of Technology, Mesra (Ranchi)
+MCA, 2010 - 2013
 
-Honors and Awards
+### Honors and Awards
 
-Unsung Hero, Empathy Lab, May 2011
-A peer-awarded honor which I'll always be terribly proud to have won.
+OCJP 1.6 certificate
 
-Interests
+#### Interests
 
-Being a dad and spending time with my family
-Playing board and card games (and video games, too)
-Making and listening to music
 Watching and contributing to Open Source Software
-
 
 ### Generate Font Test
 
