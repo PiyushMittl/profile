@@ -102,49 +102,23 @@ These are languages, tools, and practices to which I have had exposure over the 
 
 ### Markup/Templating Languages & Preprocessors
 
-* CoffeeScript
-* CSS^†^
-* Dust.js
-* ERB/eRuby
-* Haml
-* Handlebars.js
-* HTML^†^
-* Jade
+* CSS
+* HTML
 * JSP
 * JSTL
-* LESS^†^
-* Liquid
-* Markdown^†^
-* Mustache
-* Sass^†^
-* Smarty
-* Swig
-* Stylus
+* SAS
+* Swing
+* AWT Swing
 
 ### Frameworks & APIs
 
-* Backbone.js^†^
-* Bower
-* Browserify^†^
-* Compass^†^
-* Django
-* Express^†^
-* Jasmine
+* Spring MVC^†^
+* Spring Security
+* Hibernate 3.x
+* JPA 2.0
 * jQuery
-* krakenjs
-* Lodash^†^
-* Meteor
-* Middleman
-* Node.js^†^
-* Prototype.js
-* React
-* Require.js^†^
-* Ruby on Rails
-* Sinatra
-* Twitter API
-* Underscore.js^†^
-* Wordpress
-* YUI
+* Lastic Search
+* Mongo Lastic
 
 ### Software & Tools
 
@@ -156,12 +130,7 @@ These are languages, tools, and practices to which I have had exposure over the 
 * Oracle
 * MySQL
 * PostgreSQL
-* rvm^†^
-* Sublime Text
-* Subversion
-* tmux^†^
 * Tomcat
-* Ubuntu Linux
 
 ### Education
 
@@ -176,17 +145,6 @@ OCJP 1.6 certificate
 
 Watching and contributing to Open Source Software
 
-### Generate Font Test
-
-Creates a new document which shows your selected text ( *or "Lorem Ipsum"* ) in all available fonts, so you can choose the one you like best!
-
-# Installation
-
-Install via [**Package Control**](https://packagecontrol.io/installation) (*Preferred*)
-
-* Bring up the command palette:
- * <kbd>Cmd + Shift + P</kbd> (*OSX & Linux*)
-* Select option: `Package Control: Install Package`
 
 
 
