@@ -115,6 +115,8 @@ These are languages, tools, and practices to which I have had exposure over the 
 * Spring MVC^†^
 * Spring Security
 * Hibernate 3.x
+* Tiles
+* Spring i18n
 * JPA 2.0
 * jQuery
 * Lastic Search
@@ -131,6 +133,10 @@ These are languages, tools, and practices to which I have had exposure over the 
 * MySQL
 * PostgreSQL
 * Tomcat
+* SVN
+* Visul Studion TFS
+
+
 
 ### Education
 
