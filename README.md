@@ -28,7 +28,7 @@ Authoring great user experiences with j2ee, mongodb, and spring. Advocating for 
 
 ### Experence
 
-###Java Developer at  [**iTuple Tecnology**](http://www.ituple.com/)
+### Java Developer at  [**iTuple Tecnology**](http://www.ituple.com/)
 
  October 2016 - present
  PMD,FindBugs
@@ -39,7 +39,7 @@ POST MAN script writing
 
 
 
-###Java Developer at  [**Cognizant Tecnology Solution**](https://www.cognizant.com/)
+### Java Developer at  [**Cognizant Tecnology Solution**](https://www.cognizant.com/)
 
 November 2014 - October 2016
 * Engaged in front end (UI) as well as back end (J2EE) development activities in application.
@@ -51,17 +51,17 @@ November 2014 - October 2016
 
 ### Personal Interests
 
-####Robotics
+#### Robotics
 
 Arduino
 Raspbarry pi 
 
-####Framework Implementation
+#### Framework Implementation
 
 Builder pattern for response set 
 
 
-####Andriod
+#### Andriod
 
 developing h/w or robots application
 
@@ -74,7 +74,7 @@ Robotics
 Mobile Development
 Electrical
 
-###Achivements
+### Achivements
 * Automate build process by developing a java program from which team does not
 need to follow the build process after making any change in source code. Time
 saved from 40 minutes to 5 seconds
@@ -90,11 +90,11 @@ By default, `Font Favorites` comes with a list of searchable header styles that 
 
 
 
-###Skills & Expertise
+### Skills & Expertise
 
 These are languages, tools, and practices to which I have had exposure over the past 6 years or so. Those things which enjoy routine usage in my daily work are denoted with a ^†^ symbol.
 
-###Programming Languages
+### Programming Languages
 
 * J2EE6/7^†^
 * MongoDB^†^
