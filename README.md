@@ -33,28 +33,29 @@ Authoring great user experiences with j2ee, mongodb, and spring. Advocating for 
  October 2016 - present
  PMD,FindBugs
 Swagger UI for REST API testing
-POST MAN script **
-*
-*his allows the solution to handle the data coming from different sources and integrate them, sync them with the data saved at different *ources. Main operation Merge of data, Segregation of data, roll back failure, notification.
+POST MAN script
+
+#### EWS
+This allows the solution to handle the data coming from different sources and integrate them, sync them with the data saved at different ources. Main operation Merge of data, Segregation of data, roll back failure, notification.
 *	Engaged in framework designing to merge and segregate data.
 *	Contributed software engineering expertise in the development of products from requirements definition through successful deployment.
 *	Notification on the basis of any failure occurred while saving or updating data.
 *	Rollback commit the state of data on the basis of partially or fully saved data
 *	Handling complex solution writing for child and parent operation of an entity.*
 
-i-Rekognition
+#### i-Rekognition
 This allows the solution to identify the humans Using the human face as a key to security. Images can be captured from a distance without touching the person being identified, and the identification does not require interacting with the person.
 *	Pushing data  (images) to AWS S3 bucket.
 *	Indexing and listing images.
 *	Comparing images and identification of objects and humans.
 
-Track Me
-A vehicle tracking system combines the use of automatic vehicle location in individual vehicles with software that collects these fleet *ata for a comprehensive picture of vehicle locations. The recorded location data can be stored within the tracking unit, or it may be transmitted to a central location Server connected to the Internet using a cellular (GPRS or SMS), modem embedded in the unit. This allows the Vehicle's location to be displayed on a map in real time or when analyzing the track later, using GPS tracking software
+#### Track Me
+A vehicle tracking system combines the use of automatic vehicle location in individual vehicles with software that collects these fleet data for a comprehensive picture of vehicle locations. The recorded location data can be stored within the tracking unit, or it may be transmitted to a central location Server connected to the Internet using a cellular (GPRS or SMS), modem embedded in the unit. This allows the Vehicle's location to be displayed on a map in real time or when analyzing the track later, using GPS tracking software
 *	Continuous Integration.
 *	Notification Management and alerts using SNS and SMS.
 *	Payment gateway implementation using PayU money.
 
-PivotM
+#### PivotM
 PivotM is a graphical real time system performance monitoring tool for Windows OS Monitor... The complete list of system parameters that can be monitored includes, page swapping, browser usage and history, file name and content monitoring with productive and non-productive segregation of data.
 *	Data streaming.
 *	Productive and non-productive segregation.
