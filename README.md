@@ -33,7 +33,7 @@ Authoring great user experiences with j2ee, mongodb, and spring. Advocating for 
  October 2016 - present
  PMD,FindBugs
 Swagger UI for REST API testing
-POST MAN script writing 
+POST MAN script writing
 
 
 
