@@ -84,7 +84,7 @@ ESP8266
 #### Framework Implementation
 
 Builder pattern for response set and Notification Implementation.
-
+Builder patters for Notification
 
 
 ### Personal Interests
@@ -92,8 +92,7 @@ own framework for API testing using RestTemplate
 testing automation
 Robotics
 Mobile Development
-Electrical
-Home Automation
+DIY Home Automation projects
 
 ### Achivements
 * Automate build process by developing a java program from which team does not
@@ -161,7 +160,6 @@ These are languages, tools, and practices to which I have had exposure over the 
 * Visul Studion TFS
 
 
-
 ### Education
 
 Birla Institute Of Technology, Mesra (Ranchi)
@@ -169,14 +167,9 @@ MCA, 2010 - 2013
 
 ### Honors and Awards
 
-OCJP 1.6 certificate
+OCJP 1.6 Certified Professional
+AWS Solutions Architect Certified Professional
 
 #### Interests
 
 Watching and contributing to Open Source Software
-
-
-
-
-
-
