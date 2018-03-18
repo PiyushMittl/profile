@@ -168,6 +168,7 @@ MCA, 2010 - 2013
 ### Honors and Awards
 
 OCJP 1.6 Certified Professional
+
 AWS Solutions Architect Certified Professional
 
 #### Interests
