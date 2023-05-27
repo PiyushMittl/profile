@@ -1,6 +1,6 @@
 # PIYUSH MITTAL
 
-* Phone: 9358909659 
+* Phone: *********** 
 * Email: mr.piyushmittal@rediffmail.com
 * Youtube Channel:  [**Piyush Mittal YouTube**](https://www.youtube.com/channel/UCfkltrltP4rfIPeBF3t5bpQ#youtuber)
 * Github: [**Piyush Mittal Git**](https://github.com/PiyushMittl/profile) 
@@ -154,7 +154,7 @@ These are languages, tools, and practices to which I have had exposure over the 
 * MySQL
 * Nginx
 * Oracle
-* MySQL
+* SQL Server
 * PostgreSQL
 * Tomcat
 * SVN
