@@ -5,11 +5,12 @@
 * Youtube Channel:  [**Piyush Mittal YouTube**](https://www.youtube.com/channel/UCfkltrltP4rfIPeBF3t5bpQ#youtuber)
 * Github: [**Piyush Mittal Git**](https://github.com/PiyushMittl/profile) 
 * Stack Overflow: [**Piyush Mittal StackFlow**](http://stackoverflow.com/users/edit/4793343) 
-* Website: [**Piyush Mittal**](http://www.mittalpiyush.com) 
+* Website: [**Piyush Mittal**](http://www.mittalpiyush.com)
+* Blog: [**Piyush Mittal Blog**](https://piyushanandmittal.blogspot.com/)
 
 
 
-### Developer
+### Senior Software Engineer
 
 [Youtuber](https://www.youtube.com/channel/UCfkltrltP4rfIPeBF3t5bpQ#youtuber) &nbsp;|&nbsp; [Installation](https://github.com/viisual/ASCII-Decorator#installation) &nbsp;
 
@@ -19,59 +20,71 @@
 ```
 ```
 ### Summary
-I am an experienced java developer who has led development for multiple successful projects. I am passionate about building high quality apps with modern web technologies. Through being conversant in server-side engineering, solution finding with various design pattern, and project management practices, I am able to execute end-to-end on a product or project.
-and eager to learn new emerging technologies and having personal interests in robotics and mobile application.
-testing automation is also one of the interest area which is noting but to test REST API's.
+I am an experienced Senior Software Engineer at Microsoft with expertise in cloud technologies, data migration, and enterprise-scale solutions. With over 10 years of software development experience, I have led multiple successful projects involving Azure, AWS, microservices architecture, and database modernization. I am passionate about building high-quality, scalable applications and have a proven track record in architecting end-to-end solutions, from initial concept through production rollout.
+
+I specialize in cloud migration, telemetry systems, payment platforms, and identity management solutions. My interests extend to test automation, robotics, and mobile application development.
 
 
 ### Speciality
-Authoring great user experiences with j2ee, mongodb, and spring. Advocating for the development. Managing and mentoring dev teams. Performing code reviews and API documentation. Particating in the Arduino,Raspbarry pi and Android with IOT. Drawing from a strong background in many frameworks.
+* Cloud Architecture: Azure and AWS cloud solutions, migration strategies, and microservices
+* Database Expertise: SQL Server, PostgreSQL, Oracle, MongoDB, MySQL, DynamoDB
+* Backend Development: Java, Spring Framework, Hibernate, microservices architecture
+* DevOps & CI/CD: Azure DevOps, Jenkins, Docker, Kubernetes (AKS)
+* Team Leadership: Managing and mentoring development teams, code reviews, API documentation
+* IoT & Robotics: Arduino, Raspberry Pi, NodeMCU, ESP8266
 
-### Experence
+### Experience
 
-### Java Developer at  [**iTuple Tecnology**](http://www.ituple.com/)
+### Senior Software Engineer at [**Microsoft**](https://www.microsoft.com/)
+**July 2022 - Present**
 
- October 2016 - present
- PMD,FindBugs
-Swagger UI for REST API testing
-POST MAN script
+* Driving end-to-end telemetry-sharing initiative between Microsoft and SAP—architecting a scalable pipeline that ingests, processes, and delivers **over 1 million records per day**, while acting as Microsoft's representative for schema design and lead from initial concept through production rollout with **0 outages over the past 4 months**.
+* Led the **Azure Data R&D** project focused on at-scale discovery and assessment of SQL, PostgreSQL, and Oracle IaaS targets. Was responsible for the hands-on approach of project including production releases. Project **released with high quality and integrated and up and running on Azure Migrate cloud service on Azure**.
 
-#### EWS
-This allows the solution to handle the data coming from different sources and integrate them, sync them with the data saved at different ources. Main operation Merge of data, Segregation of data, roll back failure, notification.
-*	Engaged in framework designing to merge and segregate data.
-*	Contributed software engineering expertise in the development of products from requirements definition through successful deployment.
-*	Notification on the basis of any failure occurred while saving or updating data.
-*	Rollback commit the state of data on the basis of partially or fully saved data
-*	Handling complex solution writing for child and parent operation of an entity.*
+### Software Engineer 2 at [**Microsoft**](https://www.microsoft.com/)
+**September 2021 - July 2022**
 
-#### i-Rekognition
-This allows the solution to identify the humans Using the human face as a key to security. Images can be captured from a distance without touching the person being identified, and the identification does not require interacting with the person.
-*	Pushing data  (images) to AWS S3 bucket.
-*	Indexing and listing images.
-*	Comparing images and identification of objects and humans.
+* Worked in the **Azure Data R&D** team to modernize database, **Oracle to SqlServer migration**. Orchestrated end-to-end, point-to-point discovery and assessment of SQL, PostgreSQL, and Azure IaaS landscapes, delivering a prioritized modernization roadmap that reduced migration risk and **accelerated delivery by 50%**.
 
-#### Track Me
-A vehicle tracking system combines the use of automatic vehicle location in individual vehicles with software that collects these fleet data for a comprehensive picture of vehicle locations. The recorded location data can be stored within the tracking unit, or it may be transmitted to a central location Server connected to the Internet using a cellular (GPRS or SMS), modem embedded in the unit. This allows the Vehicle's location to be displayed on a map in real time or when analyzing the track later, using GPS tracking software
-*	Continuous Integration.
-*	Notification Management and alerts using SNS and SMS.
-*	Payment gateway implementation using PayU money.
+### Senior Software Engineer at [**Indit**](https://www.indit.com/)
+**June 2021 - August 2021**
 
-#### PivotM
-PivotM is a graphical real time system performance monitoring tool for Windows OS Monitor... The complete list of system parameters that can be monitored includes, page swapping, browser usage and history, file name and content monitoring with productive and non-productive segregation of data.
-*	Data streaming.
-*	Productive and non-productive segregation.
+* Worked in the IAM (Identity and Management) team for centralized SSO login. Migrated databases from mysql to AWS Aurora DB, resultant **reduced high latency and login failure by 25%**.
 
+### Senior Software Engineer at [**PayU**](https://payu.in/)
+**December 2019 - June 2021**
 
+* Worked in the Payments Gateway team to make robust and highly scalable payment service with **20 million requests a day**.
+* Developed/designed payment workflow (online, off-line, DIY flows) for OnboardingEngine to connect merchants to PayU platform using Payment/QR/PoS element like Fast-tag, Sound Box, POS and EDC machines.
 
-### Java Developer at  [**Cognizant Tecnology Solution**](https://www.cognizant.com/)
+### Senior Consultant — Technology at [**Virtusa/Polaris(Fidelity)**](https://www.virtusa.com/)
+**December 2018 - December 2019**
 
-November 2014 - October 2016
-* Engaged in front end (UI) as well as back end (J2EE) development activities in application.
-* Contributed software engineering expertise in the development of products from requirements definition through successful deployment.
-* CAST fixing (Facilitated customization of code by encouraging software engineering team to adopt emerging standards for software    application development architecture as Code Analysis System Tool of Cognizant)
-* Release processes and customization of applications to user needs.
-* Unit testing and integration testing of owned use cases.
-* Responsible for the dealing with the problems, bug fixing and troubleshooting as per the client requirement.
+* Developed, designed architecture and built service APIs for SmartComms migration project.
+* Introduced scalable, highly available and event-driven architecture to run application on AWS cloud, resulting in **almost 50% increase in the revenue (~$55k USD)** from the new infrastructure with better result.
+
+### Software Engineer at [**iTuple(Airtel)**](http://www.ituple.com/)
+**September 2016 - December 2018**
+
+* Led the backend development of the HR Chatbot application, designed to address employees' HR-related queries at Airtel, such as leave balance, allowance status, and holiday lists, through simple text inputs.
+
+#### Notable Projects:
+
+**EWS** - Enterprise data integration solution handling data from different sources with merge, segregation, rollback failure, and notification capabilities.
+
+**i-Rekognition** - Human face recognition system using AWS S3 for image storage, indexing, and comparison for identification.
+
+**Track Me** - Real-time vehicle tracking system with GPS integration, notification management using SNS/SMS, and payment gateway implementation.
+
+**PivotM** - Real-time system performance monitoring tool for Windows with browser usage tracking and productive/non-productive data segregation.
+
+### Programmer Analyst at [**Cognizant Technology Solutions**](https://www.cognizant.com/)
+**May 2014 - September 2016**
+
+* Contributed to building an application that allowed market representatives to manage visits, collect and organize data, and analyze insights to support informed decision-making.
+* Engaged in front-end (UI) as well as back-end (J2EE) development activities.
+* CAST fixing (Facilitated customization of code by encouraging software engineering team to adopt emerging standards).
+* Unit testing, integration testing, bug fixing and troubleshooting as per client requirements.
 
 ### Personal Interests
 
@@ -117,9 +130,11 @@ These are languages, tools, and practices to which I have had exposure over the 
 
 ### Programming Languages
 
+* Java^†^
 * J2EE6/7^†^
-* MongoDB^†^
-* MySQL
+* SQL^†^
+* JavaScript
+* Python
 
 ### Markup/Templating Languages & Preprocessors
 
@@ -133,32 +148,52 @@ These are languages, tools, and practices to which I have had exposure over the 
 
 ### Frameworks & APIs
 
-* Spring MVC^†^
-* Spring Security
-* Hibernate 3.x
-* Tiles
-* Spring i18n
-* JPA 2.0
+* Spring Framework^†^ (Spring Boot, Spring MVC, Spring Security)
+* Microservices Architecture^†^
+* Hibernate^†^
+* Struts
+* JPA 2.0^†^
 * jQuery
-* Lastic Search
-* Mongo Lastic
+* Elasticsearch
 * Logstash
 * APACHE POI
 * PDF Box
+* AOP
+* JUnit Testing
+* Sonar
+* Jenkins
 
 ### Software & Tools
 
-* JBoss
-* JIRA^†^
+**Cloud Platforms:**
+* Azure^†^ (Azure Migrate, AKS, Arc RP, ADO build and deployment)
+* AWS^†^ (AWS Stack, AWS CLI, Lambda Function, EC2, S3, Step Function, DynamoDB, SNS, SES, Cloudwatch Trigger, Cloud Formation)
+
+**Databases:**
+* SQL Server^†^
+* PostgreSQL^†^
+* Oracle^†^
 * MongoDB^†^
-* MySQL
-* Nginx
-* Oracle
-* SQL Server
-* PostgreSQL
-* Tomcat
+* MySQL^†^
+* DynamoDB
+* AWS Aurora DB
+
+**Development Tools:**
+* JIRA^†^
+* Git^†^
+* Azure DevOps^†^
+* Visual Studio TFS
 * SVN
-* Visul Studion TFS
+* Jenkins
+* Sonar
+* PMD, FindBugs
+* Swagger UI
+* Postman
+
+**Application Servers:**
+* Tomcat
+* JBoss
+* Nginx
 
 
 ### Education
@@ -168,9 +203,9 @@ MCA, 2010 - 2013
 
 ### Honors and Awards
 
-OCJP 1.6 Certified Professional
-
-AWS Solutions Architect Certified Professional
+* **OCJP** (Oracle Certified Java Professional) Certified
+* **AWS Solution Architect** Certified
+* **AZ-900**, Azure Fundamentals
 
 #### Interests
 
