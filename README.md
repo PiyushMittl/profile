@@ -12,7 +12,7 @@
 
 ### Senior Software Engineer
 
-[Youtuber](https://www.youtube.com/channel/UCfkltrltP4rfIPeBF3t5bpQ#youtuber) &nbsp;|&nbsp; [Installation](https://github.com/viisual/ASCII-Decorator#installation) &nbsp;
+[Youtuber](https://www.youtube.com/channel/UCfkltrltP4rfIPeBF3t5bpQ#youtuber) &nbsp;|&nbsp; [Blogger](https://piyushanandmittal.blogspot.com/) &nbsp;
 
 &nbsp;
 
